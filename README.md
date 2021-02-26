@@ -1,5 +1,5 @@
 # Lab_consensusTAD
-# -- codes to fit ABindex models
+# -- codes to fit consensusTAD models
 
 ## 1. System requirements
 
